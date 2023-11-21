@@ -1,0 +1,16 @@
+[flake8]
+    exclude =
+        .git,
+        __pycache__,
+        .env,
+        .venv,
+        env,
+        venv,
+        .idea,
+        ./tests/data/
+    max-line-length = 120
+    extend-ignore = ANN101, E203
+
+    per-file-ignores =
+        # Don't warn about unused imports in __init__ files
+        __init__.py:F401
