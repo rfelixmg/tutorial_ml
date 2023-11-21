@@ -38,3 +38,9 @@ tutorial_ml/
 ├── pyproject.toml            # Modern configuration file for specifying build system and dependencies.
 └── setup.cfg                 # Configuration file for setuptools, used to define package metadata and behavior.
 ```
+
+
+## Pre-requisites
+
+> Python 3.6+
+> Docker
