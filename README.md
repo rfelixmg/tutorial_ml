@@ -2,12 +2,25 @@ Mastering Python Project Structure: A Comprehensive Guide
 ---
 
 
+This comprehensive guide is dedicated to mastering the structure of Python projects. It's an in-depth resource for Python developers of all levels, focusing on establishing a solid foundation for creating well-organized, maintainable, and efficient Python codebases.
 
-> **TL;DR:**
+
+### Table of content
+> - [Tutorial - Table of Content](#tutorial---table-of-content)
 >
-> The article "Mastering Python Project Structure: A Comprehensive Guide" provides an in-depth guide on structuring Python projects. It covers everything from setting up a sample project structure (tutorial_ml) with clearly defined components like schemas and wrangler modules, to explaining advanced topics such as setup.cfg, pyproject.toml, and Pydantic. Additionally, it discusses Python project setup, installation processes, manual and automated testing with pytest, and quality assurance with pre-commit hooks. The guide also integrates GitHub Actions for CI/CD, and explores containerizing with Docker for consistent development environments.
+> - [Getting started](#getting-started)
+>
+> - [Features](#features)
+>
+> - [Contributing](#contributing)
+>
+> - [License](#contributing)
+>
+> - [Repository Structure](#repository-structure)
+>
+> - [Pre-requisites](#pre-requisites)
 
-## Summary
+## Tutorial - Summary
 > - #### [Section 1. Project Structure and Functionalities](./docs/001.Section.md)
 > - #### [Section 2. Python project setup, and installation](./docs/002.Section.md)
 > - #### [Section 3. Testing and Experimenting with your package](./docs/003.Section.md)
@@ -15,6 +28,20 @@ Mastering Python Project Structure: A Comprehensive Guide
 > - #### [Section 5: Integrating GitHub Actions with Pre-Commit and Pytest](./docs/005.Section.md)
 > - #### [Section 6: Containerizing with Docker for an Integrated Development Environment](./docs/006.Section.md)
 
+## Getting started
+...
+
+## Features
+
+...
+
+## Contribution
+
+...
+
+## License
+
+...
 
 ## Repository Structure
 
@@ -42,5 +69,8 @@ tutorial_ml/
 
 ## Pre-requisites
 
-> Python 3.6+
-> Docker
+> - Python 3.6+
+>
+> - Docker
+>
+> - `requirements.txt`
