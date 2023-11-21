@@ -3,8 +3,8 @@ Mastering Python Project Structure: A Comprehensive Guide
 
 
 
-> **TL;DR:** 
-> 
+> **TL;DR:**
+>
 > The article "Mastering Python Project Structure: A Comprehensive Guide" provides an in-depth guide on structuring Python projects. It covers everything from setting up a sample project structure (tutorial_ml) with clearly defined components like schemas and wrangler modules, to explaining advanced topics such as setup.cfg, pyproject.toml, and Pydantic. Additionally, it discusses Python project setup, installation processes, manual and automated testing with pytest, and quality assurance with pre-commit hooks. The guide also integrates GitHub Actions for CI/CD, and explores containerizing with Docker for consistent development environments.
 
 ## Summary
